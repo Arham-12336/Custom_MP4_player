@@ -1,7 +1,7 @@
 # MP4 Player
 A simple video player using HTML,CSS and JavaScript to play video.
 
-<img align="right" src="./video.mp4" height="500px"/>
+<img align="right" src="./Player.gif" height="500px"/>
 
 
 
